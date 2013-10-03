@@ -10,4 +10,7 @@
 
 #define AT_VECTOR_SIZE_ARCH 2 /* entries in ARCH_DLINFO */
 
+
+#define LA LA LA
+
 #endif /* _ASM_IA64_AUXVEC_H */
